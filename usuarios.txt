@@ -1,0 +1,13 @@
+casillas
+0
+dcosta
+1
+pepe 1401581581   pepe ha iniciado un nuevo chat con dcosta
+juan
+1
+pepe 1401581556   pepe ha iniciado un nuevo chat con juan
+pepe
+0
+simeone
+1
+pepe 1401459811    comes hoy en la facu??
